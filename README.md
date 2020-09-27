@@ -4,6 +4,7 @@ A 2D room simulator which simulates point cloud sampling and depth map acquisiti
 ## Instructions
 
 1. Change the file path `fp2.png` to the floor plan of your choice. The floor plan needs to be **grayscale** with **walls:black** and **space:white**.
+![Example floor plan](fp_2.png "Example floor plan")
 2. 
    * Mixed
    * Mixed  
